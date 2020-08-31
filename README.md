@@ -1,5 +1,5 @@
 ---
-data-tags: #home #uncled
+data-tags: home uncled
 class: test
 ---
 
